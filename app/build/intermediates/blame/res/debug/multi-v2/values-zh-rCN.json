@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\optiplex 760\\Documents\\android\\Paises\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\optiplex 760\\Documents\\android\\Paises\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "from": {
+                        "startLines": "2,3,4,6,5",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,97,141,231,184",
+                        "endColumns": "41,43,42,47,46",
+                        "endOffsets": "92,136,179,274,226"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,97,141,184,232",
+                        "endColumns": "41,43,42,47,46",
+                        "endOffsets": "92,136,179,227,274"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\bruna\\Downloads\\Paises\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\bruna\\Downloads\\Paises\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "from": {
+                        "startLines": "2,3,4,6,5",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,97,141,231,184",
+                        "endColumns": "41,43,42,47,46",
+                        "endOffsets": "92,136,179,274,226"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,97,141,184,232",
+                        "endColumns": "41,43,42,47,46",
+                        "endOffsets": "92,136,179,227,274"
+                    }
+                }
+            ]
+        }
+    ]
+}

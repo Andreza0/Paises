@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\bruna\\Downloads\\Paises\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-de-rDE\\values-de-rDE.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\bruna\\Downloads\\Paises\\app\\src\\main\\res\\values-de-rDE\\strings.xml",
+                    "from": {
+                        "startLines": "2,3,4,6,5",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,111,164,261,218",
+                        "endColumns": "55,52,53,43,42",
+                        "endOffsets": "106,159,213,300,256"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,111,164,218,262",
+                        "endColumns": "55,52,53,43,42",
+                        "endOffsets": "106,159,213,257,300"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\optiplex 760\\Documents\\android\\Paises\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-de-rDE\\values-de-rDE.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\optiplex 760\\Documents\\android\\Paises\\app\\src\\main\\res\\values-de-rDE\\strings.xml",
+                    "from": {
+                        "startLines": "2,3,4,6,5",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,111,164,261,218",
+                        "endColumns": "55,52,53,43,42",
+                        "endOffsets": "106,159,213,300,256"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,111,164,218,262",
+                        "endColumns": "55,52,53,43,42",
+                        "endOffsets": "106,159,213,257,300"
+                    }
+                }
+            ]
+        }
+    ]
+}

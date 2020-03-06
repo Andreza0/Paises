@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\bruna\\Downloads\\Paises\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w600dp-v13\\values-w600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\bruna\\Downloads\\Paises\\app\\src\\main\\res\\values-w600dp\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,106",
+                        "endColumns": "50,45",
+                        "endOffsets": "101,147"
+                    },
+                    "to": {
+                        "startLines": "5,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "177,228",
+                        "endColumns": "50,45",
+                        "endOffsets": "223,269"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\bruna\\Downloads\\Paises\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "from": {
+                        "startLines": "4,5,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "101,135,56",
+                        "endColumns": "33,42,44",
+                        "endOffsets": "130,173,96"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,89,132",
+                        "endColumns": "33,42,44",
+                        "endOffsets": "84,127,172"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\optiplex 760\\Documents\\android\\Paises\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w600dp-v13\\values-w600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\optiplex 760\\Documents\\android\\Paises\\app\\src\\main\\res\\values-w600dp\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,106",
+                        "endColumns": "50,45",
+                        "endOffsets": "101,147"
+                    },
+                    "to": {
+                        "startLines": "5,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "177,228",
+                        "endColumns": "50,45",
+                        "endOffsets": "223,269"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\optiplex 760\\Documents\\android\\Paises\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "from": {
+                        "startLines": "4,5,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "101,135,56",
+                        "endColumns": "33,42,44",
+                        "endOffsets": "130,173,96"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,89,132",
+                        "endColumns": "33,42,44",
+                        "endOffsets": "84,127,172"
+                    }
+                }
+            ]
+        }
+    ]
+}

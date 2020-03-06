@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\optiplex 760\\Documents\\android\\Paises\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ar-rSA\\values-ar-rSA.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\optiplex 760\\Documents\\android\\Paises\\app\\src\\main\\res\\values-ar-rSA\\strings.xml",
+                    "from": {
+                        "startLines": "2,3,6,4,5",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,256,155,206",
+                        "endColumns": "49,49,50,50,49",
+                        "endOffsets": "100,150,302,201,251"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,155,206,257",
+                        "endColumns": "49,49,50,50,49",
+                        "endOffsets": "100,150,201,252,302"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\bruna\\Downloads\\Paises\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ar-rSA\\values-ar-rSA.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\bruna\\Downloads\\Paises\\app\\src\\main\\res\\values-ar-rSA\\strings.xml",
+                    "from": {
+                        "startLines": "2,3,6,4,5",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,256,155,206",
+                        "endColumns": "49,49,50,50,49",
+                        "endOffsets": "100,150,302,201,251"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,155,206,257",
+                        "endColumns": "49,49,50,50,49",
+                        "endOffsets": "100,150,201,252,302"
+                    }
+                }
+            ]
+        }
+    ]
+}
